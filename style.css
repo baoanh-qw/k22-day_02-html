@@ -1,0 +1,39 @@
+pre[class*="language-"] {
+  background: #eef3f8;
+  padding: 20px;
+  border-radius: 12px;
+  overflow-x: auto;
+  font-size: 16px;
+  line-height: 1.6;
+  width: 100%;
+}
+
+code[class*="language-"] {
+  font-family: Consolas, "Courier New", monospace;
+}
+.tag {
+  background-color: #e0f2fe;
+  color: #0369a1;
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-size: 14px;
+}
+.code-highlight {
+  color: rgb(3, 3, 3);
+  background-color: #03f0fc;
+}
+.cangiua {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+figure {
+  border: 2px solid blue;
+}
+#logo {
+  width: 50%;
+}
